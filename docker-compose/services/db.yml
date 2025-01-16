@@ -22,6 +22,7 @@ services:
         POSTGRES_DB: 'blockscout'
         POSTGRES_USER: 'blockscout'
         POSTGRES_PASSWORD: 'ceWb1MeLBEeOIfk65gU8EjF8'
+        ENCODING: UTF8
         LC_COLLATE: C
         LC_CTYPE: C
     ports:
